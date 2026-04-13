@@ -1,16 +1,17 @@
-## Hi there 👋
+Hola! Soy Daniel Rivero
+Desarrollador Full Stack con experiencia en seguridad y soporte de software
 
-<!--
-**DaniRC22/DaniRC22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mi
+Tengo 30 años, soy de Buenos Aires, Argentina.
+Me desenvuelvo en SQL, Express, React y Node. Tambien tengo conocimientos en JAVA, spring boot y Angular.
+Soy una persona autodidacta que busca aprender y mejorar cada día.
+Tecnologia
+JavaScript Typescript HTML5 CSS Angular React
+Node.js Express Java Spring boot 
+PostgreSQL Sequelize SQL 
+Sonarqube Jenkins 
+Terraform AWS
+Nucleus 
+PowerBi
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DaniRC22
