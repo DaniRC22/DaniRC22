@@ -52,7 +52,6 @@ Soy un desarrollador apasionado de **30 años** con más de 5 años de experienc
 ## 📊 Estadísticas
 
 - 💼 Experiencia: Full Stack Development, Seguridad, DevOps
-- 🎓 Aprendizaje continuo en arquitecturas de microservicios y cloud-native
 - 🔧 Últimas tecnologías exploradas: AWS, Terraform, CI/CD
 
 ---
